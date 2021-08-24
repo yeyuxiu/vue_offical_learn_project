@@ -41,5 +41,5 @@
 </script>
 
 <style scoped lang="scss">
-    @import "@/static/scss/20_plug.scss";
+    @import "@/static/scss/20_Plug.scss";
 </style>
