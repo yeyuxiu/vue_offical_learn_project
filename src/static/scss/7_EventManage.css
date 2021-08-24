@@ -1,0 +1,29 @@
+.event-stop-box {
+  width: 360px;
+  height: 150px; }
+  .event-stop-box > div {
+    width: 100%;
+    height: 100%;
+    background: black; }
+    .event-stop-box > div:after {
+      content: "outer";
+      color: white; }
+    .event-stop-box > div > div {
+      width: 50%;
+      height: 50%;
+      background: #0dbaaa; }
+      .event-stop-box > div > div:after {
+        color: white;
+        content: "inter"; }
+
+.l-stop {
+  float: left; }
+
+.r-stop {
+  float: left;
+  margin-left: 70px; }
+
+.set-height-stop {
+  height: 160px; }
+
+/*# sourceMappingURL=7_EventManage.css.map */

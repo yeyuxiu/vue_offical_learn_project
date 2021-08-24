@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+h5 {
+  color: firebrick;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 3px 0;
+
+}
+
+p {
+  font-size: 18px;
+  line-height: 2em;
+  color: rgb(105, 105, 0);
+}
+
+div>ul>li {
+  margin-left: 45px;
+  color: black;
+}
+.input-inline ::v-deep .el-input{
+  width: 200px;
+  display: inline-block;
+}
+
+
+.el-link--inner {
+  font-size: 18px;
+}
+
