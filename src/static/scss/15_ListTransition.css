@@ -1,0 +1,54 @@
+@charset "UTF-8";
+#demo .fade-enter-active, #demo .fade-leave-active {
+  transition: opacity .5s; }
+#demo .fade-enter, #demo .fade-leave-to {
+  opacity: 0; }
+
+#example-1 {
+  /* 可以设置不同的进入和离开动画 */
+  /* 设置持续时间和动画函数 */ }
+  #example-1 .slide-fade-enter-active {
+    transition: all .3s ease; }
+  #example-1 .slide-fade-leave-active {
+    transition: all 0.8s cubic-bezier(1, 0.5, 0.8, 1); }
+  #example-1 .slide-fade-enter, #example-1 .slide-fade-leave-to
+   {
+    transform: translateX(10px);
+    opacity: 0; }
+
+#example-2 .bounce-enter-active {
+  animation: bounce-in .5s; }
+#example-2 .bounce-leave-active {
+  animation: bounce-in .5s reverse; }
+@keyframes bounce-in {
+  0% {
+    transform: scale(0); }
+  50% {
+    transform: scale(1.5); }
+  100% {
+    transform: scale(1); } }
+#example-5 .component-fade-enter-active, #example-5 .component-fade-leave-active {
+  transition: opacity .3s ease; }
+#example-5 .component-fade-enter, #example-5 .component-fade-leave-to
+ {
+  opacity: 0; }
+
+.list-complete-item {
+  transition: all 1s;
+  display: inline-block;
+  margin-right: 10px; }
+
+.list-completeu-enter, .list-completeu-leave-to
+ {
+  opacity: 0;
+  transform: translateY(-30px); }
+
+.list-completed-enter, .list-completed-leave-to
+ {
+  opacity: 0;
+  transform: translateY(30px); }
+
+.list-complete-leave-active {
+  position: absolute; }
+
+/*# sourceMappingURL=15_ListTransition.css.map */
