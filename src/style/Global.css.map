@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,CAAE;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;AAGZ,CAAE;EACA,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,KAAK",
+"sources": ["../../../../../%E5%89%8D%E7%AB%AF/vue_project/shop_one_project/src/style/Global.scss"],
+"names": [],
+"file": "Global.css"
+}

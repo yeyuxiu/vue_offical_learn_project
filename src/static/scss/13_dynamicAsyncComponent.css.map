@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,WAAY;EACV,OAAO,EAAE,QAAQ;EACjB,sBAAsB,EAAE,GAAG;EAC3B,uBAAuB,EAAE,GAAG;EAC5B,MAAM,EAAE,cAAc;EACtB,MAAM,EAAE,OAAO;EACf,UAAU,EAAE,OAAO;EACnB,aAAa,EAAE,IAAI;EACnB,YAAY,EAAE,IAAI;EAClB,qCAAkB;IAChB,UAAU,EAAE,OAAO;;AAIvB,IAAK;EACH,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,IAAI",
-"sources": ["../../../../../../%E5%89%8D%E7%AB%AF/vue_project/official_learn_project/src/static/scss/13_dynamicAsyncComponent.scss"],
-"names": [],
-"file": "13_dynamicAsyncComponent.css"
-}

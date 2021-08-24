@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,WAAY;EACV,KAAK,EAAE,GAAG;;AAGZ,KAAM;EACJ,KAAK,EAAE,GAAG;;AAEZ,OAAQ;EACN,KAAK,EAAE,KAAK",
-"sources": ["../../../../../../%E5%89%8D%E7%AB%AF/vue_project/official_learn_project/src/static/scss/2_ModuleSyntax.scss"],
-"names": [],
-"file": "2_ModuleSyntax.css"
-}
